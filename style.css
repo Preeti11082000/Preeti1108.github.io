@@ -1,0 +1,32 @@
+/* author Megha Gupta */
+body {
+  font-family: Arial;
+}
+.card {
+	  margin-left: 60px;
+	padding: 25px;
+    width: 100%;
+    min-height: 150vh;
+    border: 1px solid black;
+	
+}
+.cardo {
+	margin: 5vh 0 5vh 0;
+	padding: 25px;
+    width: 100%;
+    min-height: 250vh;
+	
+}
+.card-title{
+	font-size: 48px
+}
+.a{
+	line-height: 0.7;
+
+}
+a:link {
+  color: #80aaff;
+}
+.card-body{
+	line-height: 1.5;
+}
